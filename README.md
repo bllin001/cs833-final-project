@@ -21,7 +21,7 @@ conda activate cs833
 pip install -r requirements.txt
 ```
 
-NOTE: If you want to add more requirements
+**NOTE:** If you want to add more requirements
 
 ```shell
 pip freeze > requirements.txt
